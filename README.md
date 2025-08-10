@@ -35,6 +35,7 @@ This project aims to predict hospital readmissions for diabetic patients using s
 - Encoded ordinal and binary clinical test results (e.g., A1C test, glucose levels).
 
 ### 3. Model Training & Evaluation
+- Logistic Regression, Random Forest, Support Vector Machine (SVM) (final best-performing model), K-Nearest Neighbors (KNN)
 - Compared classifiers using accuracy, precision, recall, and F1-score.
 - Best performance achieved with **SVM + SMOTE** (Accuracy: 61.16%).
 - Evaluated using confusion matrices, ROC-AUC, and statistical tests.
